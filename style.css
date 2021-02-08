@@ -815,7 +815,7 @@ timeline p.footer {
   
 }
 .Porfolio-Show2{
-  height: 600px;
+  height: auto;
   position: relative;
   display: flex;
   justify-content: center;
@@ -824,7 +824,7 @@ timeline p.footer {
 }
 .Porfolio-Show2 iframe{
    border: 0;
-   height: 100%;
+   height: 600px;
    width: 800px;
    left: 0px;
 }
